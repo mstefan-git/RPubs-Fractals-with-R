@@ -1,2 +1,2 @@
-# RPubs-Fractals-with-R
-Replication files for "Fractals with R" 
+# RPubs: Fractals with R
+(https://rpubs.com/mstefan-rpubs/fractals)
